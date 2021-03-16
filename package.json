@@ -62,7 +62,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": ".",
+  "homepage": "https://sosswap.com/",
   "devDependencies": {
     "@types/ledgerhq__hw-transport": "^4.21.3",
     "@types/ledgerhq__hw-transport-webusb": "^4.70.1",
